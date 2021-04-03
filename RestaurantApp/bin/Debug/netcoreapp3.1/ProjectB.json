@@ -1,0 +1,13 @@
+{
+  "promotions": [
+    {
+      "promotietitel": "1",
+      "gerecht": "3",
+      "vandatum": "2",
+      "totdatum": "4",
+      "beginprijs": "5",
+      "eindprijs": "6",
+      "korting": "7"
+    }
+  ]
+}

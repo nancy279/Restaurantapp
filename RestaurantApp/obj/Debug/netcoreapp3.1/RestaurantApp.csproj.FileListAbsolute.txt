@@ -1,0 +1,15 @@
+C:\Users\samir\source\repos\nancy279\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.AssemblyInfoInputs.cache
+C:\Users\samir\source\repos\nancy279\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.AssemblyInfo.cs
+C:\Users\samir\source\repos\nancy279\RestaurantApp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.csprojAssemblyReference.cache
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.exe
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.deps.json
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.runtimeconfig.json
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.runtimeconfig.dev.json
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.dll
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\RestaurantApp.pdb
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.csproj.CopyComplete
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.dll
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.pdb
+C:\Users\samir\source\repos\nancy279\Restaurantapp\RestaurantApp\obj\Debug\netcoreapp3.1\RestaurantApp.genruntimeconfig.cache

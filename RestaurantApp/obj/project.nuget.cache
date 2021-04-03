@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yq6mx2xHhV+uGC6DsyEZ695AYIOCfgtU3kWjQi6sU1kzcTLONrApyBu//X5b0nHR8q+OPzgwYsMF8uQ4R0cjUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samir\\source\\repos\\nancy279\\Restaurantapp\\RestaurantApp\\RestaurantApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
