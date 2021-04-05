@@ -6,7 +6,7 @@ namespace RestaurantApp.Classes
 {
     public class Promoties
     {
-        public string promotietitel { get; set; }
+        public string promotietitel { get; set;  }
         public string gerecht { get; set; }
         public string vandatum { get; set; }
         public string totdatum { get; set; }
